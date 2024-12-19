@@ -1,0 +1,11 @@
+*
+
+!Assets/
+
+!Assets/Scripts/
+
+!Assets/Scripts/**/
+
+!Assets/Scripts/**/*.cs
+
+!.gitignore
