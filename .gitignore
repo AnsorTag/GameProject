@@ -9,4 +9,6 @@
 
 !Assets/Scripts/**/*.cs
 
+!Game Design Document.docx
+
 !.gitignore
