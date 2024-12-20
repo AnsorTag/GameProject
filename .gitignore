@@ -9,6 +9,15 @@
 
 !Assets/Scripts/**/*.cs
 
+!Assets/Art/
+
+!Assets/Art/**/
+
+!Assets/Prefabs/
+
+!Assets/Prefabs/**/
+
 !Game Design Document.docx
+!Project Documentation_ Survivor.docx
 
 !.gitignore
